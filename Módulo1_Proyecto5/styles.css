@@ -1,0 +1,51 @@
+body {
+      font-family: 'Montserrat', sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 40px;
+      font-weight: 700;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 12px;
+      font-weight: 700;
+      background-color: #6fd3f5; /* color similar al de la slide */
+      display: inline-block;
+      padding: 4px 8px;
+      margin-bottom: 15px;
+    }
+
+    h2 a{
+        color: #000;
+        text-decoration: none;
+    }
+
+    p {
+      font-size: 14px;
+      margin: 5px 0;
+    }
+
+    .cards {
+      margin-top: 20px;
+    }
+
+    .card {
+      border: 1px solid #ccc;
+      width: 120px;
+      text-align: center;
+      padding: 15px 10px;
+      margin-bottom: 15px;
+    }
+
+    .card img {
+      width: 50px;
+      height: auto;
+      margin-bottom: 10px;
+    }
+
+    .card p {
+      font-size: 13px;
+    }
